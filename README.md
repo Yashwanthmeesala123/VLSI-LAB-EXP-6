@@ -4,7 +4,7 @@ SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CA
 
 AIM:
 
-      To design and simulate the CMOS inverter and observe the DC and transient responses
+     To design and simulate the CMOS inverter and observe the DC and transient responses
      using cadence tool.
      
 APPARATUS REQUIRED:
